@@ -1,7 +1,12 @@
-<img width="975" height="659" alt="image" src="https://github.com/user-attachments/assets/37ee1b7c-6316-4c7c-9fb6-7d8539493cfb" /># Personal-portfolio_663380487-9
+Personal-portfolio_663380487-9  (CP353301 Internetworking 1/2569)
 รวมงาน Lab, Final Project และ Certificate
-
 นาย ธนดล สาเสน 663380487-9 
+
+ใบ Certificate
+<img width="975" height="659" alt="image" src="https://github.com/user-attachments/assets/37ee1b7c-6316-4c7c-9fb6-7d8539493cfb" /># Personal-portfolio_663380487-9
+<img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/759ea102-dd65-4d69-8707-e02ca7c3c5c8" />
+
+
 
 Lab ทั้งหมด
 https://drive.google.com/drive/folders/1l7YYHByIe6_gILd1TDD3pB92oSp7oeIe?usp=sharing
